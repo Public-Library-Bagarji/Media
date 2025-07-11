@@ -5,6 +5,7 @@ Below are the book cover images stored in this repository. You can use the **Raw
 | Book Name | Image | Raw URL |
 |-----------|-------|---------|
 | AZDAWAJI-KHUSHIAN-FOR-FE-MALE | ![AZDAWAJI-KHUSHIAN-FOR-FE-MALE](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg |
+| Hands-on-Hacking | ![Hands-on-Hacking](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg |
 | Khutbat_Bahawalpur_5 | ![Khutbat_Bahawalpur_5](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg |
 | being_in_love | ![being_in_love](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png |
 | ek_qatra_khoon | ![ek_qatra_khoon](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png |
