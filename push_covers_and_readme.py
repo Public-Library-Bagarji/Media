@@ -14,11 +14,12 @@ GITHUB_RAW_PREFIX = 'https://raw.githubusercontent.com/Public-Library-Bagarji/Me
 def generate_readme():
     image_files = [f for f in os.listdir(COVERS_DIR)
                    if f.lower().endswith(('.jpg', '.jpeg', '.png', '.webp', '.gif'))]
-    image_files.sort()
+    # Sort alphabetically by book name (case-insensitive)
+    image_files.sort(key=lambda x: os.path.splitext(x)[0].lower())
     lines = [
         '# Public Library Bagarji - Book Cover Images',
         '',
-        'Below are the book cover images stored in this repository. You can use the **Raw** URL for each image as an external cover image link in the admin panel. The book name is inferred from the file name.',
+        'Below are the book cover images stored in this repository. You can use the **Raw** URL for each image as an external cover image link in the admin panel. The book name is inferred from the file name. The list is sorted alphabetically (A-Z) by book name.',
         '',
         '| Book Name | Image | Raw URL |',
         '|-----------|-------|---------|'
@@ -33,7 +34,7 @@ def generate_readme():
     lines.append('- Paste it in the "External cover image link" field in the admin panel for the relevant book.')
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
-    print(f'Updated README.md with {len(image_files)} images.')
+    print(f'Updated README.md with {len(image_files)} images (A-Z sorted).')
 
 # 3. Git add/commit/push
 def git_push():
