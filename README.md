@@ -1,14 +1,14 @@
 # Public Library Bagarji - Book Cover Images
 
-Below are the book cover images stored in this repository. You can use the **Raw** URL for each image as an external cover image link in the admin panel. The book name is inferred from the file name.
+Below are the book cover images stored in this repository. You can use the **Raw** URL for each image as an external cover image link in the admin panel. The book name is inferred from the file name. The list is sorted alphabetically (A-Z) by book name.
 
 | Book Name | Image | Raw URL |
 |-----------|-------|---------|
 | AZDAWAJI-KHUSHIAN-FOR-FE-MALE | ![AZDAWAJI-KHUSHIAN-FOR-FE-MALE](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg |
-| Hands-on-Hacking | ![Hands-on-Hacking](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg |
-| Khutbat_Bahawalpur_5 | ![Khutbat_Bahawalpur_5](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg |
 | being_in_love | ![being_in_love](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png |
 | ek_qatra_khoon | ![ek_qatra_khoon](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png |
+| Hands-on-Hacking | ![Hands-on-Hacking](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Hands-on-Hacking.jpg |
+| Khutbat_Bahawalpur_5 | ![Khutbat_Bahawalpur_5](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Khutbat_Bahawalpur_5.jpg |
 | linux | ![linux](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/linux.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/linux.jpg |
 | love_freedom_aloneness | ![love_freedom_aloneness](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/love_freedom_aloneness.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/love_freedom_aloneness.jpg |
 | peer_e_kamil | ![peer_e_kamil](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/peer_e_kamil.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/peer_e_kamil.jpg |
