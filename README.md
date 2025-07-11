@@ -17,6 +17,8 @@ Below are the book cover images stored in this repository. You can use the **Raw
 | the-book-of-women-original-imafy8ufqhay7f4z | ![the-book-of-women-original-imafy8ufqhay7f4z](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the-book-of-women-original-imafy8ufqhay7f4z.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the-book-of-women-original-imafy8ufqhay7f4z.jpg |
 | the_alchemist | ![the_alchemist](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_alchemist.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_alchemist.jpg |
 | the_broken_wjngs | ![the_broken_wjngs](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_broken_wjngs.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_broken_wjngs.jpg |
+| Zaviya_2 | ![Zaviya_2](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_2.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_2.jpg |
+| Zaviya_3 | ![Zaviya_3](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg |
 | zawiya | ![zawiya](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/zawiya.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/zawiya.jpg |
 
 ---
