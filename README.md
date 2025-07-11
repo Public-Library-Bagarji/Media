@@ -1,9 +1,11 @@
-# Public Library Bagarji - Book Cover Images
+# Public Library Bagarji - Media Images
 
-Below are the book cover images stored in this repository. You can use the **Raw** URL for each image as an external cover image link in the admin panel. The book name is inferred from the file name. The list is sorted alphabetically (A-Z) by book name.
+Below are the images stored in this repository. Each section is for a different type of image. You can use the **Raw** URL for each image as an external link in the admin panel. The list is sorted alphabetically (A-Z) by image name.
 
-| Book Name | Image | Raw URL |
-|-----------|-------|---------|
+## Book Covers
+
+| Name | Image | Raw URL |
+|------|-------|---------|
 | Animal_Farm | ![Animal_Farm](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Animal_Farm.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Animal_Farm.jpg |
 | AZDAWAJI-KHUSHIAN-FOR-FE-MALE | ![AZDAWAJI-KHUSHIAN-FOR-FE-MALE](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg |
 | being_in_love | ![being_in_love](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png |
@@ -26,8 +28,21 @@ Below are the book cover images stored in this repository. You can use the **Raw
 | Zaviya_3 | ![Zaviya_3](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg |
 | zawiya | ![zawiya](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/zawiya.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/zawiya.jpg |
 
----
+## Blog Images
 
+| Name | Image | Raw URL |
+|------|-------|---------|
+| Power_Of_Book_Reading | ![Power_Of_Book_Reading](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Power_Of_Book_Reading.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Power_Of_Book_Reading.jpeg |
+
+## Book Review Images
+
+_No images yet in this section._
+
+## News Images
+
+_No images yet in this section._
+
+---
 **How to use:**
 - Copy the Raw URL for the image you want.
-- Paste it in the "External cover image link" field in the admin panel for the relevant book.
+- Paste it in the relevant field in the admin panel.
