@@ -3,7 +3,7 @@ import subprocess
 import shutil
 
 # CONFIGURATION
-COVERS_DIR = 'book covers'
+COVERS_DIR = 'book_covers'  # Folder name with underscore
 README_PATH = 'README.md'
 GITHUB_RAW_PREFIX = 'https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/'
 
