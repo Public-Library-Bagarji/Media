@@ -4,6 +4,7 @@ Below are the book cover images stored in this repository. You can use the **Raw
 
 | Book Name | Image | Raw URL |
 |-----------|-------|---------|
+| Animal_Farm | ![Animal_Farm](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Animal_Farm.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Animal_Farm.jpg |
 | AZDAWAJI-KHUSHIAN-FOR-FE-MALE | ![AZDAWAJI-KHUSHIAN-FOR-FE-MALE](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/AZDAWAJI-KHUSHIAN-FOR-FE-MALE.jpg |
 | being_in_love | ![being_in_love](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/being_in_love.png |
 | ek_qatra_khoon | ![ek_qatra_khoon](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/ek_qatra_khoon.png |
@@ -18,6 +19,7 @@ Below are the book cover images stored in this repository. You can use the **Raw
 | the_alchemist | ![the_alchemist](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_alchemist.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_alchemist.jpg |
 | the_broken_wjngs | ![the_broken_wjngs](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_broken_wjngs.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/the_broken_wjngs.jpg |
 | The_Forty_Rules_Of_Love | ![The_Forty_Rules_Of_Love](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/The_Forty_Rules_Of_Love.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/The_Forty_Rules_Of_Love.jpg |
+| The_Sealed_Nectar | ![The_Sealed_Nectar](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/The_Sealed_Nectar.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/The_Sealed_Nectar.jpg |
 | Why_Nations_Fail | ![Why_Nations_Fail](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Why_Nations_Fail.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Why_Nations_Fail.jpg |
 | Zaviya_2 | ![Zaviya_2](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_2.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_2.jpg |
 | Zaviya_3 | ![Zaviya_3](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/book_covers/Zaviya_3.jpg |
