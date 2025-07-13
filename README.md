@@ -42,6 +42,19 @@ _No images yet in this section._
 
 _No images yet in this section._
 
+## Static Images
+
+| Name | Image | Raw URL |
+|------|-------|---------|
+| book-review-concept | ![book-review-concept](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/book-review-concept.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/book-review-concept.jpg |
+| defaul_female_avatar | ![defaul_female_avatar](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/defaul_female_avatar.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/defaul_female_avatar.png |
+| default_male_avatar | ![default_male_avatar](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/default_male_avatar.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/default_male_avatar.png |
+| developer | ![developer](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/developer.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/developer.jpg |
+| library-history | ![library-history](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-history.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-history.jpg |
+| library-interior | ![library-interior](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-interior.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-interior.jpg |
+| library-mission | ![library-mission](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-mission.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-mission.jpg |
+| websitemainlogo | ![websitemainlogo](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg |
+
 ---
 **How to use:**
 - Copy the Raw URL for the image you want.
