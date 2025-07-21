@@ -33,6 +33,10 @@ Below are the images stored in this repository. Each section is for a different 
 | Name | Image | Raw URL |
 |------|-------|---------|
 | Power_Of_Book_Reading | ![Power_Of_Book_Reading](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Power_Of_Book_Reading.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Power_Of_Book_Reading.jpeg |
+| The_Impact_of_Emerging_Technologies_on_the_Modern_World | ![The_Impact_of_Emerging_Technologies_on_the_Modern_World](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Impact_of_Emerging_Technologies_on_the_Modern_World.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Impact_of_Emerging_Technologies_on_the_Modern_World.jpeg |
+| The_Importance_of_Lifelong_Learning_in_Personal_and_Professional_Growth | ![The_Importance_of_Lifelong_Learning_in_Personal_and_Professional_Growth](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Importance_of_Lifelong_Learning_in_Personal_and_Professional_Growth.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Importance_of_Lifelong_Learning_in_Personal_and_Professional_Growth.jpeg |
+| The_Role_of_Libraries_in_Promoting_Reading_Habits | ![The_Role_of_Libraries_in_Promoting_Reading_Habits](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Role_of_Libraries_in_Promoting_Reading_Habits.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/The_Role_of_Libraries_in_Promoting_Reading_Habits.jpeg |
+| Top_AI_Tools_for_Students_and_Professionals_in_2025 | ![Top_AI_Tools_for_Students_and_Professionals_in_2025](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Top_AI_Tools_for_Students_and_Professionals_in_2025.jpeg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Blog_Images/Top_AI_Tools_for_Students_and_Professionals_in_2025.jpeg |
 
 ## Book Review Images
 
@@ -41,19 +45,6 @@ _No images yet in this section._
 ## News Images
 
 _No images yet in this section._
-
-## Static Images
-
-| Name | Image | Raw URL |
-|------|-------|---------|
-| book-review-concept | ![book-review-concept](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/book-review-concept.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/book-review-concept.jpg |
-| defaul_female_avatar | ![defaul_female_avatar](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/defaul_female_avatar.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/defaul_female_avatar.png |
-| default_male_avatar | ![default_male_avatar](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/default_male_avatar.png) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/default_male_avatar.png |
-| developer | ![developer](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/developer.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/developer.jpg |
-| library-history | ![library-history](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-history.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-history.jpg |
-| library-interior | ![library-interior](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-interior.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-interior.jpg |
-| library-mission | ![library-mission](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-mission.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-mission.jpg |
-| websitemainlogo | ![websitemainlogo](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg |
 
 ---
 **How to use:**
