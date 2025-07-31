@@ -42,8 +42,11 @@ _No images yet in this section._
 
 ## News Images
 
-_No images yet in this section._
-
+| Name | Image | Raw URL |
+|------|-------|---------|
+| Oxford_Pakistan_Programme_Scholarships_Launched_in_Sindh | ![Oxford_Pakistan_Programme_Scholarships_Launched_in_Sindh](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Oxford_Pakistan_Programme_Scholarships_Launched_in_Sindh.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Oxford_Pakistan_Programme_Scholarships_Launched_in_Sindh.jpg |
+| Sindh_Education_Foundation_Expands_with_1,000_New_Schools | ![Sindh_Education_Foundation_Expands_with_1,000_New_Schools](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Sindh_Education_Foundation_Expands_with_1,000_New_Schools.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Sindh_Education_Foundation_Expands_with_1,000_New_Schools.jpg |
+| Sindh_Government_Allocates_Rs_34.2_Billion_for_Education_Development | ![Sindh_Government_Allocates_Rs_34.2_Billion_for_Education_Development](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Sindh_Government_Allocates_Rs_34.2_Billion_for_Education_Development.jpg) | https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/News_img/Sindh_Government_Allocates_Rs_34.2_Billion_for_Education_Development.jpg |
 ---
 **How to use:**
 - Copy the Raw URL for the image you want.
